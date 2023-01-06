@@ -1,7 +1,21 @@
 ## THE FOLLOWING IS CONFIGURATION FOR BRAWL STARS, DO NOT COMMIT THIS FILE ANYWHERE
 
+##########
+# IMPORTANT
+
+token = ""
+# The API wouldn't work unless you provide the functioning key
+# 1. Create a key at https://developer.brawlstars.com/#/account
+# 2. Copy the token from the key section and paste it here.
+
+player_tag = "#8RQCY8UPY" # Enter your player tag gere. Ex: #8RQCY8UPY"
+
+##########
+##########
+# OPTIONAL
+
 # Set it to false if you don't want to send the reports via mail
-Mailer    = True
+Mailer    = False
 
 # Set it to false if you don't want to log the change in your brawler stats
 Logs      = True
@@ -22,13 +36,6 @@ dpi       = 100
 
 ## Please follow the steps to enter the string values
 
-token = ""
-# The API wouldn't work unless you provide the functioning key
-# 1. Create a key at https://developer.brawlstars.com/#/account
-# 2. Copy the token from the key section and paste it here.
-
 sender_ = "" # Enter the sender's mail id if the mailer is set to True
 
 receiver = "" # Enter the receiver's mail id if the mailer is set to True
-
-player_tag = "#8RQCY8UPY" # Enter your player tag gere. Ex: #8RQCY8UPY"
