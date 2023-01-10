@@ -8,7 +8,7 @@ token = ""
 # 1. Create a key at https://developer.brawlstars.com/#/account
 # 2. Copy the token from the key section and paste it here.
 
-player_tag = "#8RQCY8UPY" # Enter your player tag gere. Ex: #8RQCY8UPY"
+player_tag = "#8RQCY8UPY" # Enter your player tag gere. Ex: #8RQCY8UPY
 
 ##########
 ##########
